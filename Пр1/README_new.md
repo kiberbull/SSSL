@@ -30,3 +30,12 @@
 
 ![image](https://github.com/user-attachments/assets/016983d6-e265-4bb9-a9bf-9306ba845fb4)
 
+Загрузил модуль omhttp для Rsyslog
+
+![image](https://github.com/user-attachments/assets/d6bc6c47-caad-4e0f-a7c1-51470df32914)
+
+Настроил локи и подключил к Grafana
+
+![image](https://github.com/user-attachments/assets/d7db7956-4114-408f-914f-434709cff521)
+
+![image](https://github.com/user-attachments/assets/03eeb5a8-dd7e-4225-89db-4658ac86f6d9)
