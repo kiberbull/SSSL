@@ -1,7 +1,4 @@
-```python
-Клонирование репозитория с логами
-```
-
+# Клонирование репозитория с логами
 
 ```python
 !git clone https://github.com/logpai/loghub.git
@@ -14,12 +11,8 @@
     remote: Total 575 (delta 145), reused 135 (delta 132), pack-reused 404 (from 1)[K
     Receiving objects: 100% (575/575), 7.27 MiB | 14.52 MiB/s, done.
     Resolving deltas: 100% (267/267), done.
-
-
-
-```python
-Переход в директорию с логами HPC
-```
+    
+# Переход в директорию с логами HPC
 
 
 ```python
@@ -32,12 +25,7 @@
     /usr/lib/python3/dist-packages/IPython/core/magics/osm.py:417: UserWarning: using dhist requires you to install the `pickleshare` library.
       self.shell.db['dhist'] = compress_dhist(dhist)[-100:]
 
-
-
-```python
-получение списка всех файлов логов в папке:
-```
-
+# Получение списка всех файлов логов в папке:
 
 ```python
 import os
@@ -48,12 +36,7 @@ print("Найденные файлы логов:", log_files)
 ```
 
     Найденные файлы логов: ['HPC_2k.log']
-
-
-
-```python
-Парсинг логов
-```
+# Парсинг логов
 
 
 ```python
