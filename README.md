@@ -70,23 +70,6 @@ logs_df = pd.DataFrame(parsed_logs)
 logs_df.head()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -146,9 +129,8 @@ logs_df.head()
 
 
 
-```python
+
 Сохранение данных в CSV
-```
 
 
 ```python
@@ -210,9 +192,8 @@ print(state_counts)
 
 
 
-```python
-Tables
-```
+
+Построение таблицы
 
 
 ```python
