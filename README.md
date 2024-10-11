@@ -232,20 +232,7 @@ print(summary_df)
     unix.hw                    NaN       12.0    NaN
     state_change.unavailable   NaN        NaN   12.0
 
-
-
-```python
-Построение графиков для столбцов node, component, и state:
-```
-
-
-      Cell In[42], line 1
-        Построение графиков для столбцов node, component, и state:
-                   ^
-    SyntaxError: invalid syntax
-
-
-
+# Построение графиков для столбцов node, component, и state:
 
 ```python
 # Создание графиков для каждого категориального столбца
