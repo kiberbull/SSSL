@@ -288,3 +288,19 @@ print("График сохранён в 'State_distribution.png'")
 ```
     График сохранён в 'State_distribution.png'
     <Figure size 640x480 with 0 Axes>
+
+
+
+<img width="879" alt="image" src="https://github.com/user-attachments/assets/54552e90-0016-4596-a7db-eda310df51bd">
+
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/0a2ddd31-b09e-48cb-98e8-064033471297">
+
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/71e64345-2638-47cc-8f7c-70736f2ee432">
+
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/7eb78ea1-7163-4c5c-bc57-1a0787fcb8aa">
+
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/3926b6ea-44a1-497d-a822-15c92f73b390">
+
+
+
+
