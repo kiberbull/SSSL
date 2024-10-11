@@ -273,20 +273,12 @@ plt.show()
 
 
     
-![png](prz_2_files/prz_2_14_0.png)
-    
+![prz_2_14_0](https://github.com/user-attachments/assets/6cba79cd-da5c-4afc-8618-99c2e090320a)
 
+![prz_2_14_1](https://github.com/user-attachments/assets/1b63b872-2f42-4465-9fd4-179f17f6d142)
 
+![prz_2_14_2](https://github.com/user-attachments/assets/290cf286-8edf-4d75-9308-715e434464cf)
 
-    
-![png](prz_2_files/prz_2_14_1.png)
-    
-
-
-
-    
-![png](prz_2_files/prz_2_14_2.png)
-    
 
 
 
@@ -294,15 +286,5 @@ plt.show()
 plt.savefig('State_distribution.png')
 print("График сохранён в 'State_distribution.png'")
 ```
-
     График сохранён в 'State_distribution.png'
-
-
-
     <Figure size 640x480 with 0 Axes>
-
-
-
-```python
-
-```
