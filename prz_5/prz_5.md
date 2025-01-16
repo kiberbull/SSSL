@@ -119,8 +119,10 @@ Wazuh.
 ![image](https://github.com/user-attachments/assets/3d7c03ff-68ed-4adc-9265-b7d92ad6eef6)
 ![image](https://github.com/user-attachments/assets/d858704e-40fc-4ddb-8d64-f82172c55e63)
 
+## VULNERABILITY SCANNER
+# Установка OpenVAS
 
-
+![image](https://github.com/user-attachments/assets/4ace393e-4577-47c6-9912-e68af3fefb38)
 
 
 
