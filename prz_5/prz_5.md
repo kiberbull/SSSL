@@ -111,20 +111,13 @@ Wazuh сервер и агент уже установлены в прошлой
 
 ![image](https://github.com/user-attachments/assets/8cf993b2-8b38-426c-a9db-4d158240365c)
 ![image](https://github.com/user-attachments/assets/9d6a6871-2001-4fc3-ae7d-afac8a62512b)
+![image](https://github.com/user-attachments/assets/f65b8412-dcc6-4864-929d-2591fb14b43b)
 
 Подключим лог-файл с алертами Snort к Wazuh и перезагрузим сервер
 Wazuh.
 
 ![image](https://github.com/user-attachments/assets/3d7c03ff-68ed-4adc-9265-b7d92ad6eef6)
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/d858704e-40fc-4ddb-8d64-f82172c55e63)
 
 
 
