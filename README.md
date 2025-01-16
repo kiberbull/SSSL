@@ -8,3 +8,5 @@
 [Практическая работа №3](https://github.com/kiberbull/SSSL/tree/main/ПРЗ_3)
 
 [Практическая работа №4](https://github.com/kiberbull/SSSL/tree/main/prz_4)
+
+[Практическая работа №5](https://github.com/kiberbull/SSSL/tree/main/prz_5)
